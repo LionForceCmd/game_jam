@@ -1,1 +1,2 @@
 this file include all the animations of revolver. idle, reload, ready, fire.
+also i added a camera to the file, so you don't need to set up the camera, you can use this one.
